@@ -1,5 +1,5 @@
 # or v1.0-onbuild
-FROM fluent/fluentd:v0.12-onbuild
+FROM fluent/fluentd:v1.1.0-onbuild
 
 # below RUN includes plugin as examples elasticsearch is not required
 # you may customize including plugins as you wish
